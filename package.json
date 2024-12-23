@@ -1,0 +1,24 @@
+{
+  "name": "electron-mouse-watcher",
+  "version": "1.0.4",
+  "main": "index.js",
+  "scripts": {
+    "install": "node -v"
+  },
+  "keywords": [
+    "mouse",
+    "events",
+    "native",
+    "addon"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Native Node.js module for system-level mouse event tracking",
+  "dependencies": {
+    "node-addon-api": "^8.0.0"
+  },
+  "devDependencies": {},
+  "config": {
+    "electronVersion": "31.7.6"
+  }
+}
